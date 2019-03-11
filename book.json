@@ -3,5 +3,8 @@
     "-sharing",
     "hide-published-with"
   ],
-  "language": "ja"
+  "language": "ja",
+  "styles": {
+    "website": "assets/styles/website.css"
+  }
 }
