@@ -16,4 +16,4 @@
 
 ### 本カリキュラムで使用するDockerファイル
 
-<script src="https://gist.github.com/TakuyaHarayama/392b932cb9f90bd5c2539fc46a8815d5.js"></script>
+{% gist id="https://gist.github.com/TakuyaHarayama/392b932cb9f90bd5c2539fc46a8815d5" %}{% endgist %}

@@ -1,7 +1,8 @@
 {
   "plugins": [
     "-sharing",
-    "hide-published-with"
+    "hide-published-with",
+    "gist"
   ],
   "language": "ja",
   "styles": {
