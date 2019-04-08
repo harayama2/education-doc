@@ -31,6 +31,11 @@
     * [15. 論理削除機能](docs/rails/blog-app/body-15.md)
 * [5. お役立ち集](docs/rails/body-5.md)
 
+## 学んでみた
+* [1.学習戦略](docs/rails/student-log/body-1.md)
+* [2.progateで詰まったとこ](docs/rails/student-log/body-2.md)
+
 ## 結文
 * [おわりに](docs/postscript.md)
+
 
