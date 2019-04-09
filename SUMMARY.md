@@ -30,10 +30,12 @@
     * [14. いいね機能](docs/rails/blog-app/body-14.md)
     * [15. 論理削除機能](docs/rails/blog-app/body-15.md)
 * [5. お役立ち集](docs/rails/body-5.md)
-* [6. 学んでみた]
-    * [1.学習戦略](docs/rails/student-log/body-1.md)
-    * [2.progateで詰まったとこ](docs/rails/student-log/body-2.md)
-
+* [6. 学んでみた](docs/rails/student-1.md)
+    * [1.学習例](docs/rails/student-log/body-1.md)
+    * [2.学習期間と難易度](docs/rails/student-log/body-5.md)
+    * [3.progate(Rails)メモ](docs/rails/student-log/body-2.md)
+    * [4.進めるに当たって困った事](docs/rails/student-log/body-3.md)
+    * [5.個人的にやってよかった事](docs/rails/student-log/body-4.md)
 ## 結文
 * [おわりに](docs/postscript.md)
 

@@ -1,0 +1,15 @@
+# 進めるに当たって困った事
+- 単数形か複数形か（Post か posts ??）
+- スペルミス＆純粋にスペルが分からない（varidatesとかが打てない。。）
+- ルートのパスを間違える（"/posts/new" と "posts/new" の違い）
+  - "/user_images/#{@user.image_name}"
+  - "user_images/#{@user.image_name}"
+- ":"がどちらに属して、どんな意味なのか分からなくなる（今でもよくわかりません。。）
+  - @posts = Post.all.order(created_at: :desc)
+  - @post = Post.new(content: params[:content])
+- 変数のスコープ（呼び出せる範囲）がぴんと来ない
+- <% %> や <%= %> の入力が面倒やし、使い分けないと動かない（form_tagの時はつけるとか。。。）
+- render と redirect_to の[違いと使い分け](https://qiita.com/morikuma709/items/e9146465df2d8a094d78)
+- form_tag("pass", {multipart: true})の意味は？
+- link_to("削除", "pass", {method: "post"})でpostをつける意味は？
+- session変数でログインしているユーザを識別する方法が分からなかった
