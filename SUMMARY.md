@@ -9,6 +9,9 @@
 * [1. 参考サイト](docs/web/body-1.md)
 * [2. おすすめ本](docs/web/body-2.md)
 
+## 開発手法
+* [アジャイル](docs/agile/body-1.md)
+
 ## Rails
 * [1. 概要](docs/rails/body-1.md)
 * [2. 必要な知識](docs/rails/body-2.md)
@@ -36,7 +39,5 @@
     * [3.progate(Rails)メモ](docs/rails/student-log/body-2.md)
     * [4.進めるに当たって困った事](docs/rails/student-log/body-3.md)
     * [5.個人的にやってよかった事](docs/rails/student-log/body-4.md)
-## 結文
 * [おわりに](docs/postscript.md)
-
 
